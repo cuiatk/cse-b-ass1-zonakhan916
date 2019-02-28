@@ -39,8 +39,9 @@ public class RulesOf6005 {
             boolean citingYourSource, boolean implementationRequired) {
         
         // TODO: Fill in this method, then remove the exception
+    	return true;
         
-        throw new RuntimeException("implement me!");
+//        throw new RuntimeException("implement me!");
     }
     
     /**
