@@ -14,6 +14,7 @@ public class RulesOf6005Test {
     
     /**
      * Tests the mayUseCodeInAssignment method.
+     * code going to JUnit test
      */
     @Test
     public void testMayUseCodeInAssignment() {
